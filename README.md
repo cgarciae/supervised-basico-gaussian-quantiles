@@ -1,6 +1,6 @@
-# Reto Blobs
+# Reto Gaussian Quantiles
 ## Descripcion
-Este es un conjunto artificial creado utilizando la funcion `make_moons` de [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#samples-generator).
+Este es un conjunto artificial creado utilizando la funcion `make_gaussian_quantiles` de [sklearn.datasets](http://scikit-learn.org/stable/modules/classes.html#samples-generator) y desechando la segunda dimension.
 
 ![graph](images/graph.png)
 
